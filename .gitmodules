@@ -1,3 +1,6 @@
 [submodule "fed_funds_rate"]
 	path = fed_funds_rate
 	url = https://github.com/michelleazee/fed_funds_rate.git
+[submodule "script/AK/script/AK/fed_funds_rate"]
+	path = script/AK/script/AK/fed_funds_rate
+	url = https://github.com/michelleazee/fed_funds_rate.git
